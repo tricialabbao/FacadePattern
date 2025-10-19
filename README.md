@@ -15,5 +15,5 @@ The **FrontDesk** class delegates client requests to the appropriate service cla
 * **FrontDesk** – The **facade class** that coordinates interactions between the client (`HotelApp`) and the individual hotel services.
 * **HotelApp** – The **client class** that uses the `FrontDesk` facade to access and utilize hotel services seamlessly.
 
-UML Class Diagram:
-![UML Class Diagram] (https://github.com/tricialabbao/FacadePattern/blob/main/FacadePattern.png)
+# UML Class Diagram:
+![UML Class Diagram](https://github.com/tricialabbao/FacadePattern/blob/main/FacadePattern.png)
